@@ -2,7 +2,7 @@
 
 This project is a Python implementation of a two-player **Wordle-style guessing game** played in the console. One player sets a secret word, and the other player has a limited number of attempts to guess it correctly. The program provides feedback after each guess to help narrow down the possibilities, making it an engaging and logic-based word challenge.  
 
-## 🎮 How the Game Works  
+##  How the Game Works  
 
 1. **Dictionary Setup**  
    - The game loads a dictionary of valid English words from `project4_dictionary.txt`.  
