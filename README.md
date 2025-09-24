@@ -33,5 +33,5 @@ This project is a Python implementation of a two-player **Wordle-style guessing 
 - Displays the **remaining alphabet** for easier deduction.  
 
 6. **Win/Loss Conditions**  
-- **Win: Player 2 guesses the secret word within the allowed attempts.  
-- **Loss: Player 2 runs out of attempts without finding the word.  
+- **Win**: Player 2 guesses the secret word within the allowed attempts.  
+- **Loss**: Player 2 runs out of attempts without finding the word.  
